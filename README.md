@@ -197,8 +197,6 @@ Netflix-PowerBI-Analytics-Dashboard
 
 Janice Cyril Vaz
 
-Bachelor of Science (Artificial Intelligence & Machine Learning)
-
 Power BI | SQL | Python | Data Analytics
 
 GitHub
