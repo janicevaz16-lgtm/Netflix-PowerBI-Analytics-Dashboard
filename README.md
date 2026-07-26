@@ -25,6 +25,7 @@ The objective is to demonstrate professional Business Intelligence, Data Cleanin
 ---
 
 ## 📊 Dashboard Preview
+<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/510e4c6e-ea54-4859-87e0-5e6fc7b15cdf" />
 
 ```
 (Add dashboard screenshot here)
