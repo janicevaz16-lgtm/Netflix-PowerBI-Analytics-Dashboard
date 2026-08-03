@@ -140,6 +140,14 @@ Data Model
 
 ## 🗂 Data Model
 
+
+
+![Data Model
+
+
+<img width="314" height="401" alt="image" src="https://github.com/user-attachments/assets/36517429-acdd-4442-8da5-6e36a77eb7c7" />
+
+
 This dashboard uses a cleaned Netflix dataset imported into Power BI.
 
 Relationships were established where necessary, and calculations were created using DAX measures.
@@ -213,6 +221,8 @@ AVERAGE(Netflix[vote_average])
 ### 🌍 Country Analysis
 
 ![Country Analysis]
+
+----
 <img width="305" height="624" alt="image" src="https://github.com/user-attachments/assets/0f45450b-3850-4066-a90d-01dd51d9b107" />
 
 
