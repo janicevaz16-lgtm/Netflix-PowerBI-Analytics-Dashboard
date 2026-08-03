@@ -4,7 +4,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![Netflix Dashboard](images/dashboard.png)
 
 ---
 
@@ -14,7 +13,7 @@ This project presents an interactive Netflix Content Analytics Dashboard develop
 
 The dashboard provides business insights into Netflix's content library by analyzing:
 
-- Movies vs TV Shows
+- Movies vs TV Shows  
 - Rating Distribution
 - Content Release Trends
 - Country-wise Content Distribution
@@ -189,6 +188,15 @@ AVERAGE(Netflix[vote_average])
 
 
 ---
+### Movie and TV Analysis
+
+
+![Movies vs TV Shows](images/movies-vs-tvshows.png)
+
+<img width="300" height="211" alt="image" src="https://github.com/user-attachments/assets/ae386734-2df3-42bf-a67d-97e36af18499" />
+
+
+
 
 ### Country Analysis
 
