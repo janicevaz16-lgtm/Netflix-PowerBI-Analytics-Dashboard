@@ -96,6 +96,12 @@ The following transformations were performed using Power Query:
 <img width="1253" height="211" alt="kpi-cards" src="https://github.com/user-attachments/assets/ea7e3667-27a8-4acb-b39d-ce75e1067855" />
 
 ---
+###🔄 Power Query
+
+![Power Query]
+
+<img width="1596" height="766" alt="image" src="https://github.com/user-attachments/assets/3bf28217-e4cd-4e84-8ec9-7020433c79db" />
+
 
 ### Interactive Visualizations
 
