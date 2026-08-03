@@ -55,9 +55,7 @@ Dataset Source
 
 Netflix Titles Dataset
 
-Source:
-
-Kaggle
+Source: Kaggle
 
 ---
 
@@ -86,12 +84,16 @@ The following transformations were performed using Power Query:
 
 ## 📈 Dashboard Features
 
-### KPI Cards
+- ### 📈 KPI Cards
 
 - Total Titles
 - Movies
 - TV Shows
 - Countries
+
+
+![KPI Cards]
+<img width="1253" height="211" alt="kpi-cards" src="https://github.com/user-attachments/assets/ea7e3667-27a8-4acb-b39d-ce75e1067855" />
 
 ---
 
@@ -187,19 +189,31 @@ AVERAGE(Netflix[vote_average])
 
 
 
+![Rating Analysis]
+<img width="314" height="632" alt="image" src="https://github.com/user-attachments/assets/007af40b-d943-4821-9d8c-2263949ce9ac" />
+<img width="317" height="281" alt="image" src="https://github.com/user-attachments/assets/4df6d30e-e393-4d20-a4a9-21280143b4ce" />
+<img width="300" height="571" alt="image" src="https://github.com/user-attachments/assets/a7470986-d0e3-4317-beb0-9cf274905a1b" />
+
+
+
+
 ---
 ### Movie and TV Analysis
 
 
-![Movies vs TV Shows](images/movies-vs-tvshows.png)
+![Movies vs TV Shows]
 
 <img width="300" height="211" alt="image" src="https://github.com/user-attachments/assets/ae386734-2df3-42bf-a67d-97e36af18499" />
 
 
 
 
-### Country Analysis
 
+
+### 🌍 Country Analysis
+
+![Country Analysis]
+<img width="305" height="624" alt="image" src="https://github.com/user-attachments/assets/0f45450b-3850-4066-a90d-01dd51d9b107" />
 
 
 ---
